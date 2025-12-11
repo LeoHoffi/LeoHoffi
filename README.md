@@ -1,6 +1,6 @@
 # Hi, I'm Leo 👋
 
-I'm a software developer focused on building clean, maintainable applications.
+I am a software developer who is currently in training
 
 - 🔭 Currently working with **React**, **Typescript** and **React**
 - 📚 Always learning more about **clean architecture** and **coding**
