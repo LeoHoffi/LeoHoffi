@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Leo 👋
 
-<!--
-**LeoHoffi/LeoHoffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building clean, maintainable applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently working with **React**, **Typescript** and **React**
+- 📚 Always learning more about **clean architecture** and **coding**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages:** Java, TypeScript, JavaScript, Python
+- **Backend:** Spring Boot, Node.js, Express
+- **Frontend:** React, HTML, CSS
+- **Tools:** Git, Docker, GitHub Actions
